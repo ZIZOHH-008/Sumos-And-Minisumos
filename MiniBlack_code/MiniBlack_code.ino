@@ -1,13 +1,4 @@
 /*Codigo de MiniBlack MiniSumo
-  BY:Roger Andres Alvarez Diaz: rogeralvarez22082007@gmail.com
-  Institucion Educatica Jorge Eliecer Gaitan-Palmira
-  star code in 31/10/2022
-  Last update 10/11/2022
-  Configuracion en "Herramientas"
-  placa: "Atmega328/328p"
-  procesador: "Atmega328p"
-  clock: "External: 20 MHz"
-  pogramador: "Atmel STK500 devolopment board"
   Link para el gestor de tarjetas: https://raw.githubusercontent.com/carlosefr/atmega/master/package_carlosefr_atmega_index.json
   Paginas que recomiendo para investigacion y entender mejor el codigo
   https://create.arduino.cc/projecthub/muhammad-aqib/arduino-pwm-tutorial-ae9d71
@@ -16,7 +7,6 @@
   https://ja-bots.com/producto/minisumo-miniblack/
   https://www.youtube.com/watch?v=BtLSaxRnIhc
   https://ja-bots.com/wp-content/uploads/2017/08/Manual-Modulo-de-Inicio.pdf
-  Buena Suerte mejorando el codigo
 */
 //         Declaracion de pines
 const int led1 = 13;     //Led Amarillo
