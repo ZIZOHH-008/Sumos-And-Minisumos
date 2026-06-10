@@ -1,4 +1,6 @@
 # Sumos-And-Minisumos
 This repository is to share my differente codes (in arduino and EV3) about this kind of robots
 
-The newest (and "best") one is from minisumoV4
+- **Miniblack_Code:** It's for a professional minisumo robot, but I think that code is incomplete. I don't know, maybe you could get some help with your robot.
+- **Minisumo_autonomo:** This is a VERY BASIC code. Maybe it need some fixes.
+- **minisumoV4:** I have more information about this. I uploaded almost everything to its folder. It has a more complete code (there's a picture of its electronics).
