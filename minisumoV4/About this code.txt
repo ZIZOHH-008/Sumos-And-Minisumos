@@ -1,0 +1,5 @@
+That Minisumo has:
+- Arduino Nano
+- QTR-8A 
+- Ultrasonido HCSR (3)
+- Motorreductores Azules
