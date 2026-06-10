@@ -182,26 +182,7 @@ void loop() {
   Serial.print("  Adel: ");
   Serial.println(distanciaAdelante);
 
-
-  // ===== Imprimir valores de color =====
-  Serial.print("Izq: ");
-  Serial.print(izq);
-  Serial.print(" (");
-  Serial.print(lineaIzquierda ? "BLANCO" : "NEGRO");
-  Serial.print(") | ");
-
-  Serial.print("Centro: ");
-  Serial.print(centro);
-  Serial.print(" (");
-  Serial.print(lineaCentro ? "BLANCO" : "NEGRO");
-  Serial.print(") | ");
-
-  Serial.print("Der: ");
-  Serial.print(der);
-  Serial.print(" (");
-  Serial.print(lineaDerecha ? "BLANCO" : "NEGRO");
-  Serial.println(")");
-
+  
   delay(100);
 }
 
